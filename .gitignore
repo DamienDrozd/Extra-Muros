@@ -1,0 +1,10 @@
+# Données brutes téléchargées (régénérées par scripts/build_data.py)
+data/raw/
+data/last_run.log
+
+node_modules/
+.vite/
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db

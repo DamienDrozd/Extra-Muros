@@ -1,0 +1,80 @@
+﻿uic;nom;commune;departement;code_insee;lat;lon;accessible_train;duree_min;gare_paris;depart;arrivee;type_train;direct;correspondance;attente_correspondance_min;trains;trains_par_jour;trains_directs_par_jour;duree_direct_min;accessible_voiture;voiture_min;voiture_km;commune_prix;achat_tous_m2;achat_appart_m2;achat_maison_m2;loyer_appart_m2;loyer_maison_m2;rapprochement
+87171744;Amifontaine;Amifontaine;Aisne;02013;49.484697;3.910682;oui;85;Paris Est;15:42;17:07;TGV INOUI + TER;non;Reims;13;TGV INOUI 2743 / TER 839266;1;0;;non;119;176.9;Amifontaine;1258;;1258;9.25;8.65;uic
+87574160;Beaugency;Beaugency;Loiret;45028;47.778486;1.625907;oui;85;Paris Austerlitz;06:28;07:53;Intercités + TER;non;Les Aubrais-Orléans;11;Intercités 3605 / TER 860207;1;0;;non;115;155.0;Beaugency;1618;1410;1742;11.72;8.99;uic
+87545756;Châteaudun;Châteaudun;Eure-et-Loir;28088;48.073184;1.338379;oui;85;Paris Austerlitz;13:56;15:21;TER;oui;;;TER 860611;2;2;85;non;114;146.0;Châteaudun;1281;1229;1294;9.7;8.01;uic
+87574319;Onzain-Chaumont-sur-Loire;Veuzain-sur-Loire;Loir-et-Cher;41167;47.491812;1.186124;oui;85;Paris Montparnasse;14:16;15:41;TGV INOUI + TER;non;St-Pierre-des-Corps;6;TGV INOUI 8485 / TER 860558;2;0;93;non;155;230.6;Veuzain-sur-Loire;1618;;1618;10.37;9.17;uic
+87471003;Rennes;Rennes;Ille-et-Vilaine;35238;48.103377;-1.670825;oui;85;Paris Montparnasse;18:00;19:25;TGV INOUI;oui;;;TGV INOUI 8637;11;11;85;non;215;347.8;Rennes;3750;3660;4519;14.87;15.28;uic
+87342097;Biache-St-Vaast;Biache-Saint-Vaast;Pas-de-Calais;62128;50.316363;2.941219;oui;86;Paris Nord;06:52;08:18;TGV INOUI + TER;non;Arras;27;TGV INOUI 7251 / TER 843705;3;0;;non;120;183.0;Biache-Saint-Vaast;1628;;1628;10.95;9.49;uic
+87286518;Seclin;Seclin;Nord;59560;50.548222;3.035183;oui;86;Paris Nord;06:44;08:10;TGV INOUI + TER;non;Lille-Flandres;9;TGV INOUI 7001 / TER 843106;8;0;;non;139;210.2;Seclin;2397;2619;2286;13.64;11.24;uic
+87313437;Villers-Bretonneux;Villers-Bretonneux;Somme;80799;49.862643;2.521487;oui;86;Paris Nord;18:29;19:55;TER;non;Amiens;6;TER 848551 / TER 849415;3;0;;oui;102;149.3;Villers-Bretonneux;1873;;1874;11.21;8.29;uic
+87394411;Bailleau-le-Pin;Bailleau-le-Pin;Eure-et-Loir;28021;48.36687;1.324844;oui;87;Paris Montparnasse;16:24;17:51;TER;non;Chartres;6;TER 862545 / TER 862217;3;0;;oui;91;125.9;Bailleau-le-Pin;1881;;1881;11.87;8.16;uic
+87345165;Dourges;Dourges;Pas-de-Calais;62274;50.432028;2.986635;oui;87;Paris Nord;10:49;12:16;TGV INOUI + TER;non;Douai;6;TGV INOUI 7165 / TER 843608;3;0;;non;128;194.1;Dourges;1749;;1754;11.24;9.44;uic
+87313692;Herchies;Herchies;Oise;60310;49.487189;2.012319;oui;87;Paris Nord;18:37;20:04;TER;non;Beauvais;15;TER 847441 / TER 847773;1;0;;oui;91;109.5;Herchies;1961;;1961;11.73;9.04;uic
+87543371;La Chapelle-St-Mesmin;La Chapelle-Saint-Mesmin;Loiret;45075;47.892989;1.827004;oui;87;Paris Austerlitz;16:22;17:49;TER;non;Orléans;15;TER 860521 / TER 860295;3;0;;oui;99;133.7;La Chapelle-Saint-Mesmin;2207;2129;2294;14.72;10.81;uic
+87396317;Sceaux-Boësse;Boëssé-le-Sec;Sarthe;72038;48.123217;0.57238;oui;87;Paris Montparnasse;15:39;17:06;TGV INOUI + TER;non;Le Mans;5;TGV INOUI 8879 / TER 862554;1;0;;non;118;174.0;Boëssé-le-Sec;1052;;1052;8.35;7.29;uic
+87171645;Sept-Saulx;Sept-Saulx;Marne;51530;49.151141;4.256984;oui;87;Paris Est;18:28;19:55;TGV INOUI + TER;non;Reims;21;TGV INOUI 12171 / TER 839625;3;0;;non;123;174.0;Sept-Saulx;2064;;2064;10.52;8.9;uic
+87396051;Teillé;Teillé;Sarthe;72349;48.181389;0.191517;oui;87;Paris Montparnasse;07:44;09:11;OUIGO + TER;non;Le Mans;8;OUIGO 7621 / TER 857254;1;0;;non;138;223.9;Teillé;1093;;1093;8.24;7.95;uic
+87313072;Albert;Albert;Somme;80016;50.005598;2.64401;oui;88;Paris Nord;20:22;21:50;TGV INOUI + TER;non;Arras;19;TGV INOUI 7391 / TER 843928;3;0;;non;114;156.7;Albert;1387;1529;1373;11.6;8.32;uic
+87286146;Armentières;Armentières;Nord;59017;50.680764;2.876225;oui;88;Paris Nord;06:44;08:12;TGV INOUI + TER;non;Lille-Flandres;5;TGV INOUI 7001 / TER 844109;4;0;;non;158;236.7;Armentières;1888;1938;1851;12.8;9.5;uic
+87571885;Joué-lès-Tours;Joué-lès-Tours;Indre-et-Loire;37122;47.354296;0.667766;oui;88;Paris Montparnasse;17:31;18:59;TGV INOUI + TER;non;Tours;5;TGV INOUI 8315 / TER 860371;1;0;;non;158;246.8;Joué-lès-Tours;2347;2092;2613;12.78;11.7;uic
+87342303;Tincques;Tincques;Pas-de-Calais;62820;50.357019;2.498194;oui;88;Paris Nord;17:48;19:16;TGV INOUI + TER;non;Arras;5;TGV INOUI 7181 / TER 842317;1;0;;non;157;213.1;Tincques;1634;;1634;9.67;7.49;uic
+87345140;Billy-Montigny;Billy-Montigny;Pas-de-Calais;62133;50.415276;2.911818;oui;89;Paris Nord;18:48;20:17;TGV INOUI + TER;non;Lens;8;TGV INOUI 7385 / TER 843245;1;0;;non;134;196.3;Billy-Montigny;1325;1246;1329;11.15;8.79;uic
+87574475;Bléré-la-Croix;La Croix-en-Touraine;Indre-et-Loire;37091;47.337562;0.989009;oui;89;Paris Montparnasse;19:51;21:20;OUIGO + TER;non;St-Pierre-des-Corps;12;OUIGO 7659 / TER 860808;1;0;;non;158;236.2;La Croix-en-Touraine;2023;;2023;10.72;8.41;uic
+87271874;Crouy;Crouy;Aisne;02243;49.403762;3.357036;oui;89;Paris Nord;17:34;19:03;TER;non;Crépy-en-Valois;11;TER 849931 / TER 849929;1;0;;non;117;127.2;Crouy;1714;1364;1721;10.62;9.01;uic
+87287102;Lezennes;Lille;Nord;59350;50.620549;3.099676;oui;89;Paris Nord;06:44;08:13;TGV INOUI + TER;non;Lille-Flandres;20;TGV INOUI 7001 / TER 19909;1;0;;non;145;220.6;Lille;3452;3689;2801;15.76;12.74;uic
+87287128;Mont-de-Terre;Lille;Nord;59350;50.617475;3.096843;oui;89;Paris Nord;06:44;08:13;TGV INOUI + TER;non;Lille-Flandres;21;TGV INOUI 7001 / TER 841213;1;0;;non;146;219.0;Lille;3452;3689;2801;15.76;12.74;uic
+87342139;Noeux-les-Mines;Nœux-les-Mines;Pas-de-Calais;62617;50.482593;2.676106;oui;89;Paris Nord;10:49;12:18;TGV INOUI + TER;non;Arras;14;TGV INOUI 7165 / TER 846417;1;0;;non;135;208.1;Nœux-les-Mines;1383;1657;1287;11.1;8.53;uic
+87713156;Nuits-sous-Ravières;Nuits;Yonne;89280;47.729848;4.211259;oui;89;Paris Gare de Lyon;18:52;20:21;TGV INOUI + TER;non;Montbard;17;TGV INOUI 6711 / TER 17764;4;0;;non;155;229.0;Nuits;689;;782;8.2;7.16;uic
+87297051;Viry-Noureuil;Viry-Noureuil;Aisne;02820;49.626886;3.249446;oui;89;Paris Nord;07:17;08:46;TER;non;Compiègne;10;TER 16451 / TER 849607;1;0;;non;132;188.8;Viry-Noureuil;1170;;1170;9.59;9.45;uic
+87696088;Briare;Briare;Loiret;45053;47.646462;2.733693;oui;90;Paris Bercy;14:11;15:41;TER;oui;;;TER 5909;2;2;90;non;109;158.9;Briare;1417;1055;1456;9.23;8.06;uic
+87543140;Lamotte-Beuvron;Lamotte-Beuvron;Loir-et-Cher;41106;47.594454;2.022078;oui;90;Paris Austerlitz;18:37;20:07;TER;non;Les Aubrais-Orléans;8;TER 860565 / TER 861359;1;0;;non;132;185.3;Lamotte-Beuvron;1618;;1618;10.78;8.65;uic
+87286849;Lesquin;Lesquin;Nord;59343;50.589998;3.118756;oui;90;Paris Nord;08:43;10:13;TGV INOUI + TER;non;Lille-Flandres;18;TGV INOUI 7015 / TER 841217;1;0;;non;143;215.4;Lesquin;3046;3487;2929;14.31;12.1;uic
+87396580;Mayet;Mayet;Sarthe;72191;47.760866;0.266076;oui;90;Paris Montparnasse;17:15;18:45;TGV INOUI + TER;non;Le Mans;10;TGV INOUI 8067 / TER 857276;1;0;;non;149;230.3;Mayet;1102;;1102;9.96;7.72;uic
+87286500;Phalempin;Phalempin;Nord;59462;50.515171;3.020146;oui;90;Paris Nord;06:44;08:14;TGV INOUI + TER;non;Lille-Flandres;9;TGV INOUI 7001 / TER 843106;1;0;;non;140;206.1;Phalempin;2705;3043;2516;13.31;11.49;uic
+87394247;Pontgouin;Pontgouin;Eure-et-Loir;28302;48.477598;1.142882;oui;90;Paris Montparnasse;16:24;17:54;TER;oui;;;TER 862545;1;1;90;non;115;143.3;Pontgouin;1411;;1411;9.0;8.95;uic
+87387175;Romilly-la-Puthenaye;Romilly-la-Puthenaye;Eure;27492;49.003113;0.856389;oui;90;Paris Saint-Lazare;16:30;18:00;TER;oui;;;TER 851031;1;1;90;non;142;160.9;Romilly-la-Puthenaye;1734;;1734;9.54;8.62;uic
+87345215;Sallaumines;Sallaumines;Pas-de-Calais;62771;50.417577;2.853313;oui;90;Paris Nord;18:48;20:18;TGV INOUI + TER;non;Lens;12;TGV INOUI 7385 / TER 842118;1;0;;non;135;198.8;Sallaumines;1508;1406;1515;11.07;8.77;uic
+87171751;St-Erme;Saint-Erme-Outre-et-Ramecourt;Aisne;02676;49.526756;3.857621;oui;90;Paris Est;15:42;17:12;TGV INOUI + TER;non;Reims;13;TGV INOUI 2743 / TER 839266;1;0;;non;123;181.2;Saint-Erme-Outre-et-Ramecourt;1235;;1243;8.86;8.02;uic
+87118000;Troyes;Troyes;Aube;10387;48.295565;4.065066;oui;90;Paris Est;08:42;10:12;TER;oui;;;TER 839553;1;1;90;non;123;177.6;Troyes;1632;1573;1875;11.11;10.41;uic
+87574111;Chaingy-Fourneaux-Plage;Chaingy;Loiret;45067;47.877017;1.782367;non;91;Paris Austerlitz;16:22;17:53;TER;non;Orléans;15;TER 860521 / TER 860295;0;0;;;;;;;;;;;uic
+87313056;Corbie;Corbie;Somme;80212;49.912115;2.500681;non;91;Paris Nord;18:29;20:00;TER;non;Amiens;12;TER 848551 / TER 848942;0;0;;;;;;;;;;;uic
+87345157;Hénin-Beaumont;Hénin-Beaumont;Pas-de-Calais;62427;50.416766;2.952149;non;91;Paris Nord;10:49;12:20;TGV INOUI + TER;non;Douai;6;TGV INOUI 7165 / TER 843608;0;0;;;;;;;;;;;uic
+87141002;Nancy-Ville;Nancy;Meurthe-et-Moselle;54395;48.690627;6.173454;non;91;Paris Est;17:13;18:44;TGV INOUI;oui;;;TGV INOUI 2515;0;0;91;;;;;;;;;;uic
+87574368;Noizay;Noizay;Indre-et-Loire;37171;47.409737;0.896468;non;91;Paris Montparnasse;17:31;19:02;TGV INOUI + TER;non;St-Pierre-des-Corps;16;TGV INOUI 8315 / TER 860278;0;0;;;;;;;;;;;uic
+87286831;Pont-de-Bois;Villeneuve-d'Ascq;Nord;59009;50.623971;3.129772;non;91;Paris Nord;15:43;17:14;TGV INOUI + TER;non;Lille-Flandres;20;TGV INOUI 7047 / TER 19951;0;0;;;;;;;;;;;uic
+87342113;Vitry-en-Artois;Vitry-en-Artois;Pas-de-Calais;62865;50.327283;2.980869;non;91;Paris Nord;06:52;08:23;TGV INOUI + TER;non;Arras;27;TGV INOUI 7251 / TER 843705;0;0;;;;;;;;;;;uic
+87286716;Croix-Wasquehal;Wasquehal;Nord;59646;50.679145;3.138717;non;92;Paris Nord;06:44;08:16;TGV INOUI + TER;non;Lille-Flandres;21;TGV INOUI 7001 / TER 19711;0;0;93;;;;;;;;;;uic
+87315044;Daours;Aubigny;Somme;80036;49.899131;2.458824;non;92;Paris Nord;17:30;19:02;TER;non;Amiens;16;TER 848549 / TER 848895;0;0;;;;;;;;;;;uic
+87713040;Dijon-Ville;Dijon;Côte-d'Or;21231;47.32296;5.027408;non;92;Paris Gare de Lyon;17:56;19:28;TGV Lyria;oui;;;TGV Lyria 9277;0;0;92;;;;;;;;;;uic
+87286435;Don-Sainghin;Sainghin-en-Weppes;Nord;59524;50.551851;2.914373;non;92;Paris Nord;10:15;11:47;TGV INOUI + TER;non;Lille-Flandres;7;TGV INOUI 7025 / TER 842256;0;0;;;;;;;;;;;uic
+87009696;La Douzillère;Joué-lès-Tours;Indre-et-Loire;37122;47.338661;0.653001;non;92;Paris Montparnasse;17:31;19:03;TGV INOUI + TER;non;Tours;5;TGV INOUI 8315 / TER 860371;0;0;;;;;;;;;;;uic
+87296012;Laon;Laon;Aisne;02408;49.570883;3.624455;non;92;Paris Nord;19:34;21:06;TER;oui;;;TER 849951;0;0;92;;;;;;;;;;uic
+87394429;Magny-Blandainville;Magny;Eure-et-Loir;28225;48.334279;1.28108;non;92;Paris Montparnasse;16:24;17:56;TER;non;Chartres;6;TER 862545 / TER 862217;0;0;;;;;;;;;;;uic
+87313700;Milly-sur-Thérain;Milly-sur-Thérain;Oise;60403;49.50288;1.988155;non;92;Paris Nord;18:37;20:09;TER;non;Beauvais;15;TER 847441 / TER 847773;0;0;;;;;;;;;;;uic
+87484170;Morannes;Morannes sur Sarthe-Daumeray;Maine-et-Loire;49220;47.738771;-0.41821;non;92;Paris Montparnasse;17:39;19:11;TGV INOUI + TER;non;Le Mans;9;TGV INOUI 8905 / TER 857333;0;0;;;;;;;;;;;uic
+87287151;Nieppe;Nieppe;Nord;59431;50.69714;2.827815;non;92;Paris Nord;06:44;08:16;TGV INOUI + TER;non;Lille-Flandres;5;TGV INOUI 7001 / TER 844109;0;0;;;;;;;;;;;uic
+87471508;Vitré;Vitré;Ille-et-Vilaine;35360;48.122564;-1.210889;non;92;Paris Montparnasse;07:07;08:39;TGV INOUI;oui;;;TGV INOUI 8081;0;0;92;;;;;;;;;;uic
+87575142;Châtellerault;Châtellerault;Vienne;86066;46.818534;0.549511;non;93;Paris Montparnasse;20:46;22:19;TGV INOUI;oui;;;TGV INOUI 8347;0;0;93;;;;;;;;;;uic
+87345231;Loison-sous-Lens;Loison-sous-Lens;Pas-de-Calais;62523;50.437282;2.858703;non;93;Paris Nord;18:48;20:21;TGV INOUI + TER;non;Lens;12;TGV INOUI 7385 / TER 842118;0;0;;;;;;;;;;;uic
+87574194;Mer;Mer;Loir-et-Cher;41136;47.705942;1.506292;non;93;Paris Austerlitz;06:28;08:01;Intercités + TER;non;Les Aubrais-Orléans;11;Intercités 3605 / TER 860207;0;0;;;;;;;;;;;uic
+87396077;Vivoin-Beaumont;Vivoin;Sarthe;72380;48.230199;0.144909;non;93;Paris Montparnasse;07:44;09:17;OUIGO + TER;non;Le Mans;8;OUIGO 7621 / TER 857254;0;0;;;;;;;;;;;uic
+87313098;Ailly-sur-Somme;Ailly-sur-Somme;Somme;80011;49.927915;2.201677;non;94;Paris Nord;18:29;20:03;TER;non;Amiens;16;TER 848551 / TER 848321;0;0;;;;;;;;;;;uic
+87345108;Brebières-Sud;Brebières;Pas-de-Calais;62173;50.336368;3.013921;non;94;Paris Nord;06:52;08:26;TGV INOUI + TER;non;Arras;27;TGV INOUI 7251 / TER 843705;0;0;;;;;;;;;;;uic
+87296244;Busigny;Busigny;Nord;59118;50.039139;3.445537;non;94;Paris Nord;18:16;19:50;TER;oui;;;TER 16459;0;0;94;;;;;;;;;;uic
+87396606;Château-du-Loir;Montval-sur-Loir;Sarthe;72071;47.682998;0.417239;non;94;Paris Montparnasse;18:55;20:29;TGV INOUI + TER;non;Le Mans;11;TGV INOUI 8687 / TER 857027;0;0;;;;;;;;;;;uic
+87286641;Fretin;Fretin;Nord;59256;50.560745;3.148901;non;94;Paris Nord;08:43;10:17;TGV INOUI + TER;non;Lille-Flandres;18;TGV INOUI 7015 / TER 841217;0;0;;;;;;;;;;;uic
+87345256;Libercourt;Libercourt;Pas-de-Calais;62907;50.479977;3.008806;non;94;Paris Nord;06:44;08:18;TGV INOUI + TER;non;Lille-Flandres;9;TGV INOUI 7001 / TER 843106;0;0;;;;;;;;;;;uic
+87313320;Moreuil;Moreuil;Somme;80570;49.777092;2.475454;non;94;Paris Nord;18:16;19:50;TER;non;Compiègne;14;TER 16459 / TER 848457;0;0;;;;;;;;;;;uic
+87725705;Mâcon-Loché-TGV;Mâcon;Saône-et-Loire;71270;46.282782;4.778443;non;94;Paris Gare de Lyon;18:46;20:20;TGV INOUI;oui;;;TGV INOUI 6951;0;0;94;;;;;;;;;;uic
+87172171;Poix-Terron;Poix-Terron;Ardennes;08341;49.65061;4.636828;non;94;Paris Est;07:39;09:13;TGV INOUI + TER;non;Reims;5;TGV INOUI 2707 / TER 839711;0;0;;;;;;;;;;;uic
+87316125;Thézy-Glimont;Thézy-Glimont;Somme;80752;49.811782;2.435844;non;94;Paris Nord;17:01;18:35;TER;non;Longueau;11;TER 848575 / TER 848452;0;0;;;;;;;;;;;uic
+87478552;Évron;Évron;Mayenne;53097;48.155057;-0.396317;non;94;Paris Montparnasse;15:39;17:13;TGV INOUI + TER;non;Le Mans;7;TGV INOUI 8879 / TER 857697;0;0;;;;;;;;;;;uic
+87317362;Abbeville;Abbeville;Somme;80001;50.100849;1.825534;non;95;Paris Nord;19:29;21:04;TER;oui;;;TER 16372;0;0;95;;;;;;;;;;uic
+87286864;Ascq;Villeneuve-d'Ascq;Nord;59009;50.621949;3.159824;non;95;Paris Nord;15:43;17:18;TGV INOUI + TER;non;Lille-Flandres;20;TGV INOUI 7047 / TER 19951;0;0;;;;;;;;;;;uic
+87574491;Chenonceaux-Chisseaux;Chisseaux;Indre-et-Loire;37073;47.330629;1.067218;non;95;Paris Montparnasse;19:51;21:26;OUIGO + TER;non;St-Pierre-des-Corps;12;OUIGO 7659 / TER 860808;0;0;;;;;;;;;;;uic
+87281055;Croix-l'Allumette;Croix;Nord;59163;50.687264;3.151867;non;95;Paris Nord;06:44;08:19;TGV INOUI + TER;non;Lille-Flandres;21;TGV INOUI 7001 / TER 19711;0;0;;;;;;;;;;;uic
+87543157;Nouan-le-Fuzelier;Nouan-le-Fuzelier;Loir-et-Cher;41161;47.534908;2.032683;non;95;Paris Austerlitz;19:07;20:42;TER;non;Salbris;5;TER 3917 / TER 861436;0;0;;;;;;;;;;;uic
+87286732;Roubaix;Roubaix;Nord;59512;50.695973;3.16327;non;95;Paris Nord;08:43;10:18;TGV INOUI + TER;non;Lille-Flandres;21;TGV INOUI 7015 / TER 19709;0;0;;;;;;;;;;;uic
+87574129;St-Ay;Saint-Ay;Loiret;45269;47.863047;1.749766;non;95;Paris Austerlitz;16:22;17:57;TER;non;Orléans;15;TER 860521 / TER 860295;0;0;;;;;;;;;;;uic
+87683318;St-Florentin-Vergigny;Vergigny;Yonne;89439;47.980898;3.730869;non;95;Paris Bercy;13:35;15:10;TER;oui;;;TER 17775;0;0;95;;;;;;;;;;uic
+87413385;Yvetot;Yvetot;Seine-Maritime;76758;49.622268;0.750588;non;95;Paris Saint-Lazare;13:40;15:15;TER;oui;;;TER 3115;0;0;95;;;;;;;;;;uic
